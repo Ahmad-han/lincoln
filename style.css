@@ -11,6 +11,8 @@ body {
 }
 .left-text-block {
 	width: 450px;
+}
+.left-text-block > p {
 	text-align: center;
 	font-size: 21px;
 	color: #fff;
