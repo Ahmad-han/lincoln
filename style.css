@@ -3,6 +3,7 @@
 }
 body {
 	background-color: darkred;
+	font-family: 'Changa One', cursive;
 }
 .rod {
 	display: flex;
